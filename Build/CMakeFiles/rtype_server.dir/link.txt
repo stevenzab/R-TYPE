@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++17 -W -Wall -Wextra -lpthread -lboost_serialization CMakeFiles/rtype_server.dir/Server/Server.cpp.o CMakeFiles/rtype_server.dir/Server/main.cpp.o -o rtype_server 

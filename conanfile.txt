@@ -1,0 +1,11 @@
+[requires]
+raylib/4.0.0
+nlohmann_json/3.7.3
+asio/1.24.0
+
+[options]
+tools.system.package_manager:sudo=True
+tools.system.package_manager:mode=install
+
+[generators]
+cmake

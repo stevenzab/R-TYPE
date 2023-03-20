@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/CMakeFiles/boost-populate"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/CMakeFiles/boost-populate.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/CMakeFiles/boost-populate-complete.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-build.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-configure.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-download.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-install.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-patch.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-test.rule"
+		},
+		{
+			"file" : "/home/szabandith/Delivery/Tek3/CPP/B-CPP-500-PAR-5-2-rtype-danny.duong/Build/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost-populate"
+		],
+		"name" : "boost-populate"
+	}
+}

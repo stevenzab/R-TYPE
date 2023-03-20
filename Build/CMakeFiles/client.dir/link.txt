@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++17 -W -Wall -Wextra -lpthread CMakeFiles/client.dir/Client/Client.cpp.o -o client  -Wl,-rpath,/usr/local/lib64 /usr/local/lib64/libraylib.so -lraylib 

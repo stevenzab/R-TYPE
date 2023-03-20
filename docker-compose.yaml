@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  server:
+    build: ./Server
+    volumes:
+      - rtype:/Server
+    ports:
+      - '12345:12345'
+
+volumes:
+  rtype:
+    external: false

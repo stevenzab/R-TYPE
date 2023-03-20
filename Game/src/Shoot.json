@@ -1,0 +1,26 @@
+{
+
+    "shoot" : [
+        {
+            "id": 3,
+            "components": [
+                {
+                    "type": "Render",
+                    "filename": "r-typesheet1.gif"
+                },
+                {
+                    "type": "Movement",
+                    "speed": 5,
+                    "direction": 0
+                },
+                {
+                    "type": "Collision",
+                    "x" : 5,
+                    "y" : 5,
+                    "width" : 50,
+                    "height" : 50
+                }
+            ]
+        }
+    ]
+}

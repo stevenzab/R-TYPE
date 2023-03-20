@@ -1,0 +1,38 @@
+{
+ "options": [
+  [
+   "glfw:fPIC",
+   "True"
+  ],
+  [
+   "glfw:shared",
+   "False"
+  ],
+  [
+   "glfw:vulkan_static",
+   "False"
+  ],
+  [
+   "raylib:fPIC",
+   "True"
+  ],
+  [
+   "raylib:opengl_version",
+   "None"
+  ],
+  [
+   "raylib:shared",
+   "False"
+  ],
+  [
+   "raylib:use_external_glfw",
+   "True"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

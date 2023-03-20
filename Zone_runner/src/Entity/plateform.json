@@ -1,0 +1,25 @@
+{
+    "entities": [
+        {
+            "id": 1,
+            "components": [
+                {
+                    "type": "Position",
+                    "x": 500,
+                    "y": 700
+                },
+                {
+                    "type": "Render",
+                    "filename": "texture.png"
+                },
+                {
+                    "type": "Collision",
+                    "x" : 400,
+                    "y" : 700,
+                    "width" : 400,
+                    "height" : 100
+                }
+            ]
+        }
+    ]
+}
